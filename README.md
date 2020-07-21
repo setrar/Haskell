@@ -9,6 +9,8 @@ Haskell repository for Functional Programming Studies
 
 ## DevOps
 
+https://github.com/actions/setup-haskell
+
 ## Algorithms 
 
 # References
