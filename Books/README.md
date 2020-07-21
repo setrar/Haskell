@@ -13,4 +13,4 @@
 
 |          Dir                                      | Title                                                         | Date | Comments                    |
 |---------------------------------------------------|---------------------------------------------------------------|------|-----------------------------|
-| [elm-in-action](elm-in-action)                    | [Elm in Action](https://www.manning.com/books/elm-in-action)  | 2020 |                             |
+| [elm-in-action](elm-in-action)                    | [Elm in Action](https://livebook.manning.com/book/elm-in-action)  | 2020 |                             |
