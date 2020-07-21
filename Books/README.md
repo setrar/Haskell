@@ -7,7 +7,7 @@
 | [repl.it](https://repl.it/languages/haskell)      | Online REPL                  |      |
 
 
-### [Elm <img src="images/elm-logo.png" width=28px height=28px><img>](../.languages/E.Elm)
+### [Elm <img src="../images/elm-logo.png" width=28px height=28px><img>](../.languages/E.Elm)
 
 
 |          Dir                                      | Title                        | Date |
