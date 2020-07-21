@@ -4,7 +4,7 @@
 |---------------------------------------------------|------------------------------|------|-----------------------------|
 | [lyah](lyah)                                      | Learn You a Haskell          | 2011 |                             |
 | [gpw-haskell](get-programming-with-haskell)       | Get Programming With Haskell | 2018 |                             |
-| [haskellbook.com](haskellbook.com)       | [Haskell Programming - from first principle](https://haskellbook.com/) | 2019 |                             |
+| [haskellbook](haskellbook)                        | [Haskell Programming - from first principle](https://haskellbook.com/) | 2019 |                             |
 
 
 
