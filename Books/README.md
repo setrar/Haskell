@@ -4,6 +4,8 @@
 |---------------------------------------------------|------------------------------|------|-----------------------------|
 | [lyah](lyah)                                      | Learn You a Haskell          | 2011 |                             |
 | [gpw-haskell](get-programming-with-haskell)       | Get Programming With Haskell | 2018 |                             |
+| [haskellbook.com](haskellbook.com)       | [Haskell Programming - from first principle](https://haskellbook.com/) | 2019 |                             |
+
 
 
 ### [Elm <img src="../images/elm-logo.png" width=28px height=28px><img>](../.languages/E.Elm)
