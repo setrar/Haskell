@@ -9,6 +9,6 @@
 ### [Elm <img src="../images/elm-logo.png" width=28px height=28px><img>](../.languages/E.Elm)
 
 
-|          Dir                                      | Title                        | Date | Comments                    |
-|---------------------------------------------------|------------------------------|------|-----------------------------|
-| [elm-in-action](elm-in-action)                    | Elm in Action                |.     |                             |
+|          Dir                                      | Title                                                         | Date | Comments                    |
+|---------------------------------------------------|---------------------------------------------------------------|------|-----------------------------|
+| [elm-in-action](elm-in-action)                    | [Elm in Action](https://www.manning.com/books/elm-in-action)  | 2020 |                             |
