@@ -11,7 +11,7 @@ Haskell repository for Functional Programming Studies
 
 ## Algorithms 
 
-# :two: References
+# References
 
 
 
