@@ -13,6 +13,15 @@ https://github.com/actions/setup-haskell
 
 ## Algorithms 
 
+
+## Music
+
+http://music-suite.github.io
+
+http://www.euterpea.com
+
+
+
 # References
 
 
