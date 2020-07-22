@@ -16,9 +16,10 @@ https://github.com/actions/setup-haskell
 
 ## :five: Music
 
-http://music-suite.github.io
-
-http://www.euterpea.com
+|          Website                        | Purpose                      |  Language |
+|-----------------------------------------|------------------------------|-----------|
+| http://music-suite.github.io            |                              |           |
+| http://www.euterpea.com                 |                              |           |
 
 
 
