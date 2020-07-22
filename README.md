@@ -45,3 +45,4 @@ Haskell repository for Functional Programming Studies
 |          Website                        | Purpose                      |  Language |
 |-----------------------------------------|------------------------------|-----------|
 | https://serokell.io/blog/10-reasons-to-use-haskell | 10-reasons-to-use-haskell | <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img>   |
+| https://elmprogramming.com/ | |   <sup><img src="images/elm-logo.png" width=28px height=28px><img></sup>   |
