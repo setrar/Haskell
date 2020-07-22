@@ -3,18 +3,18 @@
 Haskell repository for Functional Programming Studies
 
 
-## UI
+## :one: UI
 
-## Backend
+## :two: Backend
 
-## DevOps
+## :three: DevOps
 
 https://github.com/actions/setup-haskell
 
-## Algorithms 
+## :four: Algorithms 
 
 
-## Music
+## :five: Music
 
 http://music-suite.github.io
 
