@@ -1,3 +1,11 @@
+### [Elm <img src="../images/elm-logo.png" width=28px height=28px><img>](../.languages/E.Elm)
+
+
+|          Dir                                      | Title                                                                  | Date | Comments                    |
+|---------------------------------------------------|------------------------------------------------------------------------|------|-----------------------------|
+| [elm-in-action](elm-in-action)                    | [Elm in Action](https://livebook.manning.com/book/elm-in-action)       | 2020 |                             |
+
+
 ### [Haskell <img src="../images/602px-Haskell-Logo.svg.png" width=37 height=26><img>](../.languages/H.Haskell)
 
 |          Dir                               | Title                                                                  | Date | Comments                    |
@@ -10,9 +18,3 @@
 
 
 
-### [Elm <img src="../images/elm-logo.png" width=28px height=28px><img>](../.languages/E.Elm)
-
-
-|          Dir                                      | Title                                                                  | Date | Comments                    |
-|---------------------------------------------------|------------------------------------------------------------------------|------|-----------------------------|
-| [elm-in-action](elm-in-action)                    | [Elm in Action](https://livebook.manning.com/book/elm-in-action)       | 2020 |                             |
