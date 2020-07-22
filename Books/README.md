@@ -4,6 +4,7 @@
 |---------------------------------------------------|------------------------------|------|-----------------------------|
 | [lyah](lyah)                                      | Learn You a Haskell          | 2011 |                             |
 | [gpw-haskell](get-programming-with-haskell)       | Get Programming With Haskell | 2018 |                             |
+| [real-world-haskell](real-world-haskell)          | [Real World Haskell](http://book.realworldhaskell.org) | 2018 |             |
 | [haskellbook](haskellbook)                        | [Haskell Programming - from first principle](https://haskellbook.com/) | 2019 |                             |
 
 
