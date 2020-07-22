@@ -10,7 +10,9 @@ Haskell repository for Functional Programming Studies
 
 ## :three: DevOps
 
-https://github.com/actions/setup-haskell
+|          Website                        | Purpose                      |  Language |
+|-----------------------------------------|------------------------------|-----------|
+| https://github.com/actions/setup-haskell| github actions               | <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img>   |
 
 ## :four: Algorithms 
 
