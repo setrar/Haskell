@@ -47,4 +47,4 @@ Haskell repository for Functional Programming Studies
 | https://serokell.io/blog/10-reasons-to-use-haskell | 10-reasons-to-use-haskell | <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img>   |
 | https://elmprogramming.com/ | |   <sup><img src="images/elm-logo.png" width=28px height=28px><img></sup>   |
 | https://medium.com/@james_32022/taking-a-look-back-my-mistakes-in-learning-haskell-c8741b5b69b9 | |  <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img>   |
-| https://mmhaskell.com/monads | | |  <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img>   |
+| https://mmhaskell.com/monads |  |  <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img>   |
