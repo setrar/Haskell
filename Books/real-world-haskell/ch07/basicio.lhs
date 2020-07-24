@@ -4,3 +4,5 @@ file: ch07/basicio.hs
 >    putStrLn "Greetings! What is your name?"
 >    inpStr <- getLine
 >    putStrLn $ "Welcome to Haskell, " ++ inpStr ++ "!"
+
+$ runghc basicio.lhs
