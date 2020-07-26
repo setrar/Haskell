@@ -16,7 +16,7 @@
 | [gpw-haskell](get-programming-with-haskell)| [Get Programming With Haskell](https://livebook.manning.com/book/get-programming-with-haskell/about-this-book/)| 2018 |                             |
 | [practical-web-development-with-haskell](practical-web-development-with-haskell) | [Practical Web Development with Haskell](https://apress.com/gp/book/9781484237380) | 2018 |                             |
 | [practical-haskell](practical-haskell) | [Practical Haskell A Real World Guide to Programming](https://www.apress.com/gp/book/9781484244791) | 2019 |    |    |
-| [practical-concurrent-haskell-with-big-data](practical-concurrent-haskell-with-big-data) | [Practical Concurrent Haskell With BigData](https://www.apress.com/gp/book/9781484227800)        | 2018 |    |.   |
+| [practical-concurrent-haskell-with-big-data](practical-concurrent-haskell-with-big-data) | [Practical Concurrent Haskell With BigData](https://www.apress.com/gp/book/9781484227800)        | 2017 |    |.   |
 | [haskellbook](haskellbook)                 | [Haskell Programming - from first principle](https://haskellbook.com/) | 2019 |                             |
 
 
