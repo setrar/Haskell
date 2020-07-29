@@ -22,6 +22,11 @@ $ elm install MacCASOutreach/graphicsvg
 ```
 
 
+## :b: Modify the elm project 
+
+- [ ] Pick an example project on http://www.cas.mcmaster.ca/~anand/examples/
+
+- [ ] Test the project using  https://ellie-app.com/
 
 ## :ab: Distribute
 
