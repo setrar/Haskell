@@ -29,4 +29,12 @@ multiply2d someTuple = let ( x, y ) = someTuple in x * y
 
 
 
+-- > String.filter Char.isDigit "(800) 555-1234"
+-- "8005551234" : String
+
+-- > ({ name = "Li", cats = 2 }).cats
+-- 2 : number
+
+-- > ({ name = "Li", cats = 2 }).name
+-- "Li" : String
 
