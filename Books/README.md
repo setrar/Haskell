@@ -4,6 +4,7 @@
 |          Dir                                      | Title                                                                  | Date | Comments                    |
 |---------------------------------------------------|------------------------------------------------------------------------|------|-----------------------------|
 | [elm-in-action](elm-in-action)                    | [Elm in Action](https://livebook.manning.com/book/elm-in-action)       | 2020 |                             |
+| [outreach](outreach)                              | [outreach McMaster.ca Coding Tools](http://outreach.mcmaster.ca/#coding-tools)       | 2020 |                             |
 
 
 ### [Haskell <img src="../images/602px-Haskell-Logo.svg.png" width=37 height=26><img>](../.languages/H.Haskell)
