@@ -24,3 +24,5 @@ cabal.project.local~
 
 .idea
 .DS_Store
+
+elm-stuff
