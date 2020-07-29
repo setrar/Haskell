@@ -30,7 +30,7 @@ $ elm install MacCASOutreach/graphicsvg
   <main></main>
   <script src="app.js"><script>
   <script>
-    var app = Elm.myProject.init({ node: document.querySelector('main') })
+    Elm.myProject.init({ node: document.querySelector('main') })
     // you can use ports and stuff here
   </script>
 </body>
