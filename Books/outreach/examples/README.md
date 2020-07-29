@@ -27,7 +27,7 @@ $ elm install MacCASOutreach/graphicsvg
 $ elm make src/TwoShips.elm --output app.js
 ```
 
-- [ ] Allow the broser to launch the app
+- [ ] Allow the browser to launch the app by creating an HTML index page
 
 
 ```html
