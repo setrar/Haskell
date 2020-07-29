@@ -21,7 +21,12 @@ $ elm init
 $ elm install MacCASOutreach/graphicsvg
 ```
 
-## :b: Test your project by running the elm creator
+
+
+## :ab: Distribute
+
+
+- [ ] Test your project by running the elm creator
 
 ```
 $ elm creator
@@ -29,8 +34,6 @@ $ elm creator
 
 reach http://localhost:8000/src/myProject.elm
 
-
-## :ab: Distribute
 
 - [ ] Transpile the Javascript App
 
