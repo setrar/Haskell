@@ -19,6 +19,17 @@ $ elm install MacCASOutreach/graphicsvg
 ```
 
 
+## Distribute
+
+- [ ] Transpile the Javascript App
+
+```
+$ elm make src/TwoShips.elm --output app.js
+```
+
+- [ ] Allow the broser to launch the app
+
+
 ```html
 <html>
 <head>
