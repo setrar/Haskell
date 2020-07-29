@@ -28,9 +28,18 @@ $ elm install MacCASOutreach/graphicsvg
 
 - [ ] Test the project using  https://ellie-app.com/
 
-  In general, you would need to replace the `view` function to `myShapes` function in `main` function
+  In general, you would need to :
 
-```html
+  * replace the `Main` module to `MyProject` module
+
+ 
+```elm
+  module MyProject exposing (main)
+```
+
+  * replace the `view` function to `myShapes` function in `main` function
+
+```elm
   main =
     gameApp
         Tick
