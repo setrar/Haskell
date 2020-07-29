@@ -28,6 +28,20 @@ $ elm install MacCASOutreach/graphicsvg
 
 - [ ] Test the project using  https://ellie-app.com/
 
+  In general, you would need to replace the `view` function to `myShapes` function in `main` function
+
+```html
+  main =
+    gameApp
+        Tick
+        { 
+            model = init
+        ,   view = myShapes
+        ,   update = update
+        ,   title = "Ellie Example" -- This is the title of the browser window / tab
+        }
+```
+
 ## :ab: Distribute
 
 
