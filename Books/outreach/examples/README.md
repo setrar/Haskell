@@ -1,6 +1,9 @@
 # Creating Outreach Projects
 
 
+## :a: Create your elm project structure 
+
+
 ```
 $ mkdir myProject
 ```
@@ -18,8 +21,16 @@ $ elm init
 $ elm install MacCASOutreach/graphicsvg
 ```
 
+## :b: Test your project by running the elm creator
 
-## Distribute
+```
+$ elm creator
+```
+
+reach http://localhost:8000/src/myProject.elm
+
+
+## :ab: Distribute
 
 - [ ] Transpile the Javascript App
 
@@ -47,3 +58,6 @@ $ elm make src/TwoShips.elm --output app.js
 </body>
 </html>
 ```
+
+reach http://localhost:8000/index.html
+
