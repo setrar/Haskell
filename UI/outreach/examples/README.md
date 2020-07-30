@@ -26,7 +26,37 @@ $ elm install MacCASOutreach/graphicsvg
 
 - [ ] Pick an example project on http://www.cas.mcmaster.ca/~anand/examples/
 
-- [ ] Test the project using  https://ellie-app.com/
+- [ ] Test the project using  https://ellie-app.com/4DzdvnDVDZCa1
+
+```elm
+module Main exposing (main)
+
+import GraphicSVG exposing (..)
+import GraphicSVG.EllieApp exposing (GetKeyState,gameApp)
+
+init = { time = 0 }
+
+type Msg = Tick Float GetKeyState
+  
+update msg model =
+    case msg of
+        Tick t _ -> { model | time = t }
+
+view model =
+    collage 500 500
+        [ circle model.time |> filled orange ]
+
+main =
+    gameApp
+        Tick
+        { 
+            model = init
+        ,   view = view
+        ,   update = update
+        ,   title = "Ellie Example" -- This is the title of the browser window / tab
+        }
+
+```
 
   In general, you would need to :
 
