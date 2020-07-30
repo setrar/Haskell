@@ -31,13 +31,14 @@ $ elm install MacCASOutreach/graphicsvg
   In general, you would need to :
 
   * replace the `Main` module to `MyProject` module
-
  
 ```elm
   module MyProject exposing (main)
 ```
 
-  * replace the `view` function to `myShapes` function in `main` function
+  * replace the `view` function to `myShapes`
+
+ - [ ] function in `main` function
 
 ```elm
   main =
@@ -50,6 +51,11 @@ $ elm install MacCASOutreach/graphicsvg
         ,   title = "Ellie Example" -- This is the title of the browser window / tab
         }
 ```
+
+view model = 
+    Collage 500 500
+    [ circle 10 |> filled red ]
+
 
 ## :ab: Distribute
 
