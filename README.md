@@ -4,7 +4,7 @@ Haskell repository for Functional Programming Studies
 
 ## :zero: [Books](Books)
 
-## :one: UI
+## :one: [UI](UI)
 
 ## :two: Backend
 
