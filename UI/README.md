@@ -4,3 +4,11 @@
 |          Dir                                      | Title                                                                  | Date | Comments                    |
 |---------------------------------------------------|------------------------------------------------------------------------|------|-----------------------------|
 | [outreach](outreach)                              | [outreach McMaster.ca Coding Tools](http://outreach.mcmaster.ca/#coding-tools)       | 2020 |                             |
+
+
+
+# References
+
+| Ref                           | Comments |
+|-------------------------------|----------|
+| https://korban.net/elm/book/. |          |
