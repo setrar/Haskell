@@ -11,4 +11,4 @@
 
 | Ref                           | Comments |
 |-------------------------------|----------|
-| https://korban.net/elm/book/. |          |
+| [Practical Elm Book](https://korban.net/elm/book/) |          |
