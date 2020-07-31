@@ -11,4 +11,5 @@
 
 | Ref                           | Comments |
 |-------------------------------|----------|
-| [Practical Elm Book](https://korban.net/elm/book/) |          |
+| [Practical Elm Book](https://korban.net/elm/book/)  |                      |
+| [Awesome Elm](https://github.com/sporto/awesome-elm)| A community driven list of useful Elm tutorials, libraries and software. |
