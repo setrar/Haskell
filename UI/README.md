@@ -1,5 +1,5 @@
 # Haskell UI
 
-| Language |            |
-|----------|------------|
-| [`elm` <img src="../images/elm-logo.png" width=28px height=28px><img>](elm) | Elm libraries |
+| | | Language |
+|-|---------|------------|
+| [`elm` (elm) | Elm libraries | <img src="../images/elm-logo.png" width=28px height=28px><img>] |
