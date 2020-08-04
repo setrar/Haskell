@@ -1,9 +1,10 @@
 ### Elm <img src="../../images/elm-logo.png" width=28px height=28px><img>
 
 
-|          Dir                                      | Title                                                                  | Date | Comments                    |
-|---------------------------------------------------|------------------------------------------------------------------------|------|-----------------------------|
-| [outreach](outreach)                              | [outreach McMaster.ca Coding Tools](http://outreach.mcmaster.ca/#coding-tools)       | 2020 |                             |
+|          Dir                                      | Title                                                                                | Date | Comments       |
+|---------------------------------------------------|--------------------------------------------------------------------------------------|------|----------------|
+| [outreach](outreach)                              | [outreach McMaster.ca Coding Tools](http://outreach.mcmaster.ca/#coding-tools)       | 2020 |                |
+| [elm-spa](elm-spa)                                | [Elm SPA guide](https://www.elm-spa.dev/guide)                                       |      |                |
 
 
 
