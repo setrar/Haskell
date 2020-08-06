@@ -2,8 +2,8 @@
 
 To generate a project
 
-```
-$ elm init
+```terminal
+elm init
 ```
 
 Load a file in REPL
