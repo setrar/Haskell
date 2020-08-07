@@ -17,9 +17,6 @@ initialModel =
     , selectedUrl = "1.jpeg"
     }
 
-isEmpty : String -> Bool
-isEmpty str = str == ""
-
 type alias Photo =
     { url : String }
  
@@ -42,12 +39,6 @@ viewThumbnail selectedUrl thumb =
         , onClick { description = "ClickedPhoto", data = thumb.url }
         ]
         []
-
-padNine : Char ->  String -> String
-padNine = String.padLeft 9
-
-padNineDots : String -> String
-padNineDots = String.padLeft 9 '.'
 
 type alias Msg =
     { description : String, data : String }
