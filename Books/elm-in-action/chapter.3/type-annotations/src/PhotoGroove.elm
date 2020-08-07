@@ -7,6 +7,9 @@ import Browser
 
 import Array exposing (Array)
 
+type alias Photo =
+    { url : String }
+
 initialModel : { photos : List Photo, selectedUrl : String }
 initialModel =
     { photos =
@@ -16,9 +19,6 @@ initialModel =
         ]
     , selectedUrl = "1.jpeg"
     }
-
-type alias Photo =
-    { url : String }
  
 photoArray : Array Photo
 photoArray =
@@ -52,9 +52,6 @@ view : Model -> Html Msg
 view model =
     div [ class "content" ]
         [ h1 [] [ text "Photo Groove" ]
-        , button
-            [ onClick { description = "ClickedSurpriseMe", data = "" } ]
-            [ text "Surprise Me!" ]
         , div [ id "thumbnails" ]
             (List.map (viewThumbnail model.selectedUrl) model.photos)
         , img
@@ -66,14 +63,13 @@ view model =
 
 update : Msg -> Model -> Model
 update msg model =
-    case msg.description of
-       "ClickedPhoto" ->
+    if msg.description == "ClickedPhoto" then
         { model | selectedUrl = msg.data }
 
-       "ClickedSurpriseMe" ->
+    else if msg.description == "ClickedSurpriseMe" then
         { model | selectedUrl = "2.jpeg" }
 
-       _ ->
+    else
         model
 
 main =
