@@ -8,3 +8,5 @@ Goal is tro try using Quipper with [AWS Braket](https://aws.amazon.com/braket) o
 
 
 [Dalhousy University - Peter Selinger Quipper](https://www.mathstat.dal.ca/~selinger/quipper)
+
+https://github.com/search?q=quipper-language - Other non-official Quipper Language Repositories
