@@ -19,4 +19,5 @@
 | [haskellbook](haskellbook)                 | [Haskell Programming - from first principle](https://haskellbook.com/) | 2019 |                             |
 
 
+https://bookauthority.org/books/best-haskell-books
 
