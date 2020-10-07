@@ -13,6 +13,7 @@ Haskell repository for Functional Programming Studies
 |          Website                        | Purpose                      |  Language |
 |-----------------------------------------|------------------------------|-----------|
 | https://github.com/actions/setup-haskell| github actions               | <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img>   |
+| https://www.williamyaoh.com/posts/2019-04-09-deploying-haskell-with-ecs-and-nix.html | DEPLOYING HASKELL APPLICATIONS WITH ECS, DOCKER, AND NIX | <img src="images/602px-Haskell-Logo.svg.png" width=37 height=26><img> |
 
 ## :four: Algorithms 
 
